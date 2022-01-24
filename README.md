@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evgeniixx
 - 👀 I’m interested in Android App Development 
 - 🌱 I’m currently learning Java
-- 📫 Box: varenkine@gmail.com
+- My 📫 box: varenkine@gmail.com
 
 <!---
 evgeniixx/evgeniixx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
